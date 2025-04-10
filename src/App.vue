@@ -1,14 +1,13 @@
 <script setup>
-
-import Banner from './components/Banner.vue'
-import Content from './components/Content.vue'
-import Footer from './components/Footer.vue'
+import Banner from "./components/Banner.vue";
+import Content from "./components/Content.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <template>
   <Banner />
-  <Content/>
-  <Footer/>
+  <Content />
+  <Footer />
 </template>
 
 <style scoped>
