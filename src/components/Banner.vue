@@ -86,7 +86,7 @@ const subMenu = ref([
 const docUrl = ref("https://doc.xunion.io/");
 
 const openWeb = () => {
-  window.open("https://xunion.io/#/x-dex/swap", "_blank");
+  window.open("https://app.xunion.io/#/x-dex/swap", "_blank");
 };
 
 const menuEvent = (link) => {
