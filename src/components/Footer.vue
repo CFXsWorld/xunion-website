@@ -53,9 +53,9 @@
 import { ref } from "vue";
 
 const productsData = ref([
-  { name: "Swap", link: "https://www.xunion.io/#/x-dex/swap" },
-  { name: "Libra USD", link: "ttps://www.xunion.io/#/x-libra-usd" },
-  { name: "Lending", link: "https://www.xunion.io/#/x-lending/dashboard" },
+  { name: "Swap", link: "https://app.xunion.io/#/x-dex/swap" },
+  { name: "Libra USD", link: "ttps://app.xunion.io/#/x-libra-usd" },
+  { name: "Lending", link: "https://app.xunion.io/#/x-lending/dashboard" },
 ]);
 </script>
 

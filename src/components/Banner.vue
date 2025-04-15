@@ -78,9 +78,9 @@ const bannerTxt = ref("Unlock the full potential of DeFi");
 const bannerTip = ref("Swap,supply,borrow and stable coin");
 
 const subMenu = ref([
-  { name: "X-Dex", link: "https://www.xunion.io/#/x-dex/swap" },
-  { name: "X-Super Libra Coin", link: "https://www.xunion.io/#/x-libra-usd" },
-  { name: "X-Lending", link: "https://www.xunion.io/#/x-lending/dashboard" },
+  { name: "X-Dex", link: "https://app.xunion.io/#/x-dex/swap" },
+  { name: "X-Super Libra Coin", link: "https://app.xunion.io/#/x-libra-usd" },
+  { name: "X-Lending", link: "https://app.xunion.io/#/x-lending/dashboard" },
 ]);
 
 const docUrl = ref("https://doc.xunion.io/");

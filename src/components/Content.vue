@@ -11,7 +11,7 @@
           stablecoin that serves as the native currency of the Xunion Protocol.
         </p>
         <a
-          href="https://www.xunion.io/#/x-dex/swap"
+          href="https://app.xunion.io/#/x-dex/swap"
           target="_blank"
           style="color: #6e5de6; font-size: 18px"
           >learn more</a
@@ -76,19 +76,19 @@ const defiData = ref([
     title: "DEX",
     icon: icon1,
     con: "The most user-friendly dex to trade",
-    link: "https://www.xunion.io/#/x-dex/swap",
+    link: "https://app.xunion.io/#/x-dex/swap",
   },
   {
     title: "Super Libra Coin",
     icon: icon2,
     con: "A decentralized excess collateralized stablecoin",
-    link: "https://www.xunion.io/#/x-libra-usd",
+    link: "https://app.xunion.io/#/x-libra-usd",
   },
   {
     title: "Lending",
     icon: icon3,
     con: "Borrow, lend and earn",
-    link: "https://www.xunion.io/#/x-lending/dashboard",
+    link: "https://app.xunion.io/#/x-lending/dashboard",
   },
   {
     title: "Governance",
